@@ -1,0 +1,11 @@
+@import "./headerandFooter.css";
+
+@import "./product.css";
+/* Shared css /*/
+
+@import "./shared.css";
+@import "./contact.css";
+@import "./homepage.css";
+@import"./Aboutus.css";
+
+

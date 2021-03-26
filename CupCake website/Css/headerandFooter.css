@@ -1,0 +1,95 @@
+
+
+.Nav-Menu{
+    text-align: center;
+   
+
+padding: 20px;
+font-size: 15px;
+margin-bottom: 50px;
+width: 100%;
+position: fixed;
+background-color: #e2d5d5;
+
+}
+
+
+@media screen and (min-width: 400px) {
+
+#myVideo{
+padding-top: 50px;
+right: 0;
+bottom: 0;
+width: 100%;
+}
+.Nav-Menu{
+font-size: 48px;
+}
+
+}
+
+
+.vedio{
+text-align: center;
+}
+
+
+#header{
+text-decoration: none;
+
+}
+.Nav-Menu a {
+text-decoration: none;
+margin: 4px;
+color: #865858;
+font-family:"Dancing Script";
+
+
+
+}
+/*For changing the color when you hover on it /*/
+.Nav-Menu a:hover {
+color :white;
+background-color: #e2d5d5;
+}
+.logo{
+    text-align: center;
+    position: absolute;
+}
+/*Logo/*/
+.logo img{ 
+	margin: 10px;
+	padding: 0px;
+height:50px;
+width: 50px;
+
+transition:all 5s;
+}
+
+/*Footer/*/
+#followUp{
+    color: #865858;
+font-family:"Dancing Script";
+}
+
+.Footer{
+  
+    background-color: #e2d5d5;
+    text-decoration: none;
+    margin-top: 300px;
+    text-align: center;
+
+}
+#instgramIcon{
+    height: 40px;
+    width: 40px;
+}
+#facebookIcon{
+    height: 40px;
+    width: 40px;
+}
+#emailicon{
+    height: 40px;
+    width: 40px;
+}
+

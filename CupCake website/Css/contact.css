@@ -1,0 +1,23 @@
+#myVideo{
+   
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    width: 100%;
+    padding-top: 100px;
+
+   
+
+}
+
+.contact-cover img{
+width: 80%;
+text-align: center;
+}
+
+
+.contact-cover {
+margin-top: 100px;
+text-align: center;
+}
+.logoAboutus img:hover{transform:rotate(15deg);border:gray solid 1px;box-sizing: border-box;}
